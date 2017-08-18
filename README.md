@@ -1,2 +1,2 @@
-# mastering-javascript
-Oreilly - Learning Path - Full Stack Javascript - Mastering Javascript Course
+# Mastering Javascript
+O'reilly - Learning Path - Full Stack Javascript - Mastering Javascript Course
